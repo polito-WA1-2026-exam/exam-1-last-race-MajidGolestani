@@ -1,4 +1,3 @@
 node_modules/
-.DS_Store
-Desktop.ini
-Thumbs.db
+*.sqlite
+sessions.sqlite
